@@ -1,5 +1,5 @@
 {
-  "name": "StarlightsTeam_Scraper",
+  "name": "MG_Scraper",
   "version": "2.0.0",
   "description": "BY MG_MODZ",
   "main": "index.js",
@@ -11,6 +11,4 @@
   },
   "bugs": {
     "url": "https://github.com/googeg46/Ai-Hoshin0/issues"
-  },
-  "homepage": "https://github.com/StarlightsTeam/StarlightsTeam-Scraper#readme"
-}
+  }
